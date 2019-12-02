@@ -1,0 +1,69 @@
+Adult Education:AE|Adult Education
+Analytical Chemistry:AC|PHRM
+Anthropology:ANT
+Architecture:ARC|Architecture
+Biochemistry:BIOC(HEM)?|Biochemistry
+Biophysics:(BIO|Bio)PHY
+Biotechnology:BIOTECH|Biotechnology|BT
+Botany:Botany|BOT
+Business Economics:BSE|Buss?iness? Economics?
+CEC:CEC
+Chemistry:CHE|[Cc]hemistry
+Chinese:CHN|CHI
+Commerce:COMM?|Commerce
+Comparative Literature:CL
+Comparative Study of Religions:CMSR
+Computer Science:CS|Computer Science|Comp Sc|Digital image processing
+Criminology:Criminology
+Economics:ECO|Eco
+Education:EDU|Education
+Electronic Science:ES|Electronic and Communication Engineering
+English:ENG|Eng|Literary Translation
+Fashion Design and Technology:NIFT
+Food Technology:FT|ft|Innovation in Food Packaging|Fermentation Technology
+Food and Nutrition:FN
+Forensic Science:FSC
+Geography:[Gg]eography
+Geology:GEO
+Graphics and Visualization:GV
+Hindi:Hindi|HN[ID]|HIN
+Home Science:HSC?|H\d\d\w\w|HCS|Textile
+Hotel Management:HTM
+Human Resource Management:HRM
+Human Rights and Duties:HRD
+Indian Culture:[Ii]ndian [Cc]ulture|IC|Indian Classic Music
+Indian Politics:PS|IP
+Information Technology:IT
+Japanese:JAP|Japanese
+Jyotish-ganit:JG
+Law:Law|LAW
+Learning by Doing:LBD
+Library and Information Science:LI[SB]|L[Ss]|Library and Information Science|NML
+Linguistics:Lin(guistics)?
+Management:MGMT|Management
+Material Science:Mater Sci|MSC?
+Mathematics:MATH?|Mathematics
+Media and Communication Studies:MCS
+Metropolitan Planning:MP
+PHS:PHS
+Performing Arts:P\. Arts|PERA
+Philosophy:PHIL
+Physics:PHY
+Population Studies:Popul\.? [Ss]tud\.?
+Psychology:PSY
+Public Administration:PA|PUB
+Risk and Disaster Management:RDM
+Russian Studies:Russian [Ss]tudies|RSP?
+SMCH:SMCH
+Sanskrit (Acharya in Vyakrana):SKT AV|SKT(?=\))|(P\. )?Sanskrit \((Acharya in )?[Vv]yakrana\)|Sanskrit Origin
+Sanskrit (MA):SKT MA|Sanskrit \(M\.?A\)
+Social Work Education:SWE|Working with individual and families
+Sociology:SOC|Soc
+Spanish:Spanish|SPA|Gramatica espanola
+Statistics:Stat?i?stics|STAT?|Design of experiments
+Teacher and Student Empowerment:Project_45
+Urdu:URDU?
+Visual Art:VA|VIS|Drawing and Painting
+WOS:WOS
+Women's Studies:WS|ws
+Zoology:ZOO|Zoology
